@@ -32,7 +32,7 @@
 
 Файл: `gregory.gguf` → положите в корневую папку проекта
 
-### 3. Для пользователей Windows
+### 3. Установка
 **Требуется:** Visual C++ Build Tools
 
 **Скачать:** [https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/](https://visualstudio.microsoft.com/ru/visual-cpp-build-tools/)
@@ -49,3 +49,5 @@
 # 2. Скачайте модель с Google Drive
 # 3. Запустите:
 install.bat
+```
+**ВАЖНО! Настоятельно рекомендуем запускать на устройствах Windows, при необходимости будет адаптировано под системы Unix**
