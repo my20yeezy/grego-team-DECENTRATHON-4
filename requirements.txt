@@ -1,0 +1,9 @@
+streamlit
+llama-cpp-python
+Pillow==10.2.0
+numpy==1.26.4
+pypdfium2==4.30.0
+surya-ocr==0.16.7
+torch
+torchvision
+torchaudio
